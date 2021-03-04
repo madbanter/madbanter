@@ -1,13 +1,11 @@
 ### Hi there! 👋 I'm Adam Brent
+[![LinkedIn](https://img.shields.io/badge/adambrent%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&style=social&link=https://www.linkedin.com/in/adambrent/)](https://www.linkedin.com/in/adambrent/)
+[![GitHub](https://img.shields.io/badge/madbanter%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&style=social&link=https://github.com/madbanter)](https://github.com/madbanter)
+[![Gmail](https://img.shields.io/badge/adambrent-%23dDd9DF.svg?&style=flat-square&logo=gmail&style=social&link=mailto:adambrent@gmail.com)](mailto:adam.brent@gmail.com)
 
 📍 Based in San Francisco, CA
 
 😄 Pronouns: he/him/his
-
-
-[![LinkedIn](https://img.shields.io/badge/adambrent%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&style=social&link=https://www.linkedin.com/in/adambrent/)](https://www.linkedin.com/in/adambrent/)
-[![GitHub](https://img.shields.io/badge/madbanter%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&style=social&link=https://github.com/madbanter)](https://github.com/madbanter)
-[![Gmail](https://img.shields.io/badge/adambrent-%23dDd9DF.svg?&style=flat-square&logo=gmail&style=social&link=mailto:adambrent@gmail.com)](mailto:adam.brent@gmail.com)
 
 
 <!--

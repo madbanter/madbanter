@@ -5,6 +5,8 @@
 
 📍 Based in San Francisco, CA
 
+💬 Ask me about your work, my work, coding challenges, potential opportunities, etc.
+
 😄 Pronouns: he/him/his
 
 

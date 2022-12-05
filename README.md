@@ -3,7 +3,7 @@
 [![GitHub](https://img.shields.io/badge/madbanter%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&style=social&link=https://github.com/madbanter)](https://github.com/madbanter)
 [![Gmail](https://img.shields.io/badge/adambrent-%23dDd9DF.svg?&style=flat-square&logo=gmail&style=social&link=mailto:adambrent@gmail.com)](mailto:adam.brent@gmail.com)
 
-📍 Based in San Francisco, CA
+📍 Based in New York, NY
 
 💬 Ask me about your work, my work, coding challenges, potential opportunities, etc.
 
@@ -29,13 +29,14 @@ Here are some ideas to get you started:
 ### Languages & Tools
 ![Python](https://img.shields.io/badge/Python%20-%23323330.svg?&style=flat-square&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript%20-%23323330.svg?&style=flat-square&logo=Typescript&logoColor=%23F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/Redux%20-%2320232a.svg?&style=flat-square&logo=redux&logoColor=%23B920FF)
+![Redux](https://img.shields.io/badge/Redux%20-%2320232a.svg?&style=flat-square&logo=Redux&logoColor=%23B920FF)
 ![Styled-Components](https://img.shields.io/badge/styled_components-%23DB7093.svg?&style=flat-square&logo=styled-components&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23824266.svg?&style=flat-square&logo=flask&logoColor=white)
-![AIOHTTP](https://img.shields.io/badge/AIOHTTP-%23D9D9D9.svg?&style=flat-square&logo=aiohttp&logoColor=2C5BB4)
+![Django](https://img.shields.io/badge/Django-%23438F3F.svg?&style=flat-square&logo=django&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest%20-%23C21325.svg?&style=flat-square&logo=Jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha%20-%238D6748.svg?&style=flat-square&logo=mocha&logoColor=323232)
 ![Node](https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white)
@@ -51,5 +52,4 @@ Here are some ideas to get you started:
 ![VIM](https://img.shields.io/badge/VIM-%23363636.svg?&style=flat-square&logo=vim&logoColor=green)
 ![JIRA](https://img.shields.io/badge/JIRA-%23A6A6A6.svg?&style=flat-square&logo=jira&logoColor=0052CC)
 ![Sumo-Logic](https://img.shields.io/badge/Sumo%20Logic-%23000099.svg?&style=flat-square&logo=sumo%20logic&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-%23269539.svg?&style=flat-square&logo=NGINX&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker%20-%232496ED.svg?&style=flat-square&logo=docker&logoColor=white)

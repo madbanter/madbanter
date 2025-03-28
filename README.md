@@ -3,28 +3,11 @@
 [![GitHub](https://img.shields.io/badge/madbanter%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&style=social&link=https://github.com/madbanter)](https://github.com/madbanter)
 [![Gmail](https://img.shields.io/badge/adambrent-%23dDd9DF.svg?&style=flat-square&logo=gmail&style=social&link=mailto:adambrent@gmail.com)](mailto:adam.brent@gmail.com)
 
-📍 Based in New York, NY
+📍 Based in NJ, US
 
 💬 Ask me about your work, my work, coding challenges, potential opportunities, etc.
 
 😄 Pronouns: he/him/his
-
-
-<!--
-**madbanter/madbanter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 ### Languages & Tools
 ![Python](https://img.shields.io/badge/Python%20-%23323330.svg?&style=flat-square&logo=python&logoColor=blue)
@@ -35,7 +18,6 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/Redux%20-%2320232a.svg?&style=flat-square&logo=Redux&logoColor=%23B920FF)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%2320232a.svg?&style=flat-square&logo=Bootstrap&logoColor=dark-purple)
-![Styled-Components](https://img.shields.io/badge/Styled_Components-%23DB7093.svg?&style=flat-square&logo=styled-components&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23824266.svg?&style=flat-square&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23438F3F.svg?&style=flat-square&logo=django&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest%20-%23C21325.svg?&style=flat-square&logo=Jest&logoColor=white)
